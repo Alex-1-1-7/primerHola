@@ -2,7 +2,7 @@
 package primerhola;
 import java.util.Scanner;
 public class Primerhola {
-
+// que pasara? 
     public static void main(String[] args) {
          Scanner teclado = new Scanner(System.in);
         System.out.println("hola mundo");
